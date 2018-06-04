@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Badge 1",
+    "description": "Badge 1...",
+	 "xp": "1000",
+	 "filename": "nopic.png"
+  },
+  {
+    "name": "Badge 2",
+    "description": "Badge 2...",
+	"xp": "2400",
+	"filename": "nopic.png"
+  },
+  {
+    "name": "Badge 3",
+    "description": "Badge 3...",
+	"xp": "500",
+	"filename": "nopic.png"
+  }
+]
